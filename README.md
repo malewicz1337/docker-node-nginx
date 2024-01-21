@@ -17,9 +17,9 @@ This repository contains a setup for running a Node.js application behind an Ngi
 
 ### Building the Containers
 
-    ```bash
-    docker-compose up --build
-    ```
+```bash
+docker-compose up --build
+```
 
 ## License
 
